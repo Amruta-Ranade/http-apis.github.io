@@ -108,7 +108,7 @@ The information in the following documents can be used to create this guide:
 Please do get in touch with our community to discuss ideas and projects with members. The projects are not limited to these ideas but they are a good starting point for us.
 
 The best way to get in touch with mentors is to join the #tech-writing channel on our Slack.
-Join the Development Community. Visit our [Slack channel](https://join.slack.com/t/hydraecosystem/shared_invite/enQtNzI1NzAzNzUxMTg3LWJlMDU1MjI5YzNlYTIyZDVkODllN2ZlNjk1MjQzN2RiYzcxNzE4OGM2MzlkZTI5Y2JhNGQ3NmFlZWIxN2I1ZTg)
+Join the Development Community. Visit our [Slack channel](https://join.slack.com/t/hydraecosystem/shared_invite/zt-9eudw2gz-5SN92uyOhYDBnFQHAAx9nw)
 
 Technical writers can also reach mentors by writing at _mentors@hydraecosystem.org_ and _collective@hydraecosystem.org_
 
